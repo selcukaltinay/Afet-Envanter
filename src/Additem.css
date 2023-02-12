@@ -1,0 +1,6 @@
+.donateItem{
+
+    padding-top: 4rem;
+    padding-left: 0.5rem;
+    width: 100%; /*on mobile, this must be 100%, on others must be 50%*/
+} 
