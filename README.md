@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+
+### This project was started with the aim of developing an inventory management application in order to meet the materials that may be needed in disaster areas with the products provided by volunteers.
+
+Bootstrap and react directives are below.
+--------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
